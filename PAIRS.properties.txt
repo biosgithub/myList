@@ -6,7 +6,7 @@
 ###################################################################
 ###################################################################
 
-MARKET = BTC2
+MARKET = aldo
 
 #If you turn on trading the bot will try to sell ANY coin you already own
 ALL_trading_enabled = false
